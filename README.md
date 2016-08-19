@@ -175,7 +175,7 @@ In a real app you'd probably want to add some css, maybe put these pieces into p
 [Devise]: https://github.com/plataformatec/devise
 [engine]: http://guides.rubyonrails.org/engines.html
 [registerable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Registerable
-[database_authenticable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/DatabaseAuthenticable
+[database_authenticable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/DatabaseAuthenticatable
 [recoverable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Recoverable
 [rememberable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Rememberable
 [trackable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Trackable
@@ -184,3 +184,5 @@ In a real app you'd probably want to add some css, maybe put these pieces into p
 [omniauthable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Omniauthable
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/devise_readme'>Devise</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/devise_readme'>Devise</a> on Learn.co and start learning to code for free.</p>
