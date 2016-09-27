@@ -183,15 +183,12 @@ There's no navigation link for a user to get to the sign up page, so let's add o
 
 In a real app you'd probably want to add some CSS and probably put these pieces into partials, like a header or nav partial, but you can see how quickly and with how little code we were able to get a fully functioning login system. Feel free to play around with the other Devise modules!
 
-[Devise]: https://github.com/plataformatec/devise
-[engine]: http://guides.rubyonrails.org/engines.html
-[registerable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Registerable
-[database_authenticable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/DatabaseAuthenticatable
-[recoverable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Recoverable
-[rememberable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Rememberable
-[trackable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Trackable
-[validatable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Validatable
-[lockable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Lockable
-[omniauthable]: http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Omniauthable
+## Resources
+* [How to use Devise](https://launchschool.com/blog/how-to-use-devise-in-rails-for-authentication)
+* [Devise](https://github.com/plataformatec/devise)
+* [engine](http://guides.rubyonrails.org/engines.html)
+* [registerable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Registerable), [database_authenticable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/DatabaseAuthenticatable), [recoverable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Recoverable), [rememberable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Rememberable), [trackable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Trackable), [validatable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Validatable), [lockable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Lockable),[omniauthable](http://www.rubydoc.info/github/plataformatec/devise/master/Devise/Models/Omniauthable)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/devise_readme' title='Devise'>Devise</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/devise_readme'>Devise</a> on Learn.co and start learning to code for free.</p>
